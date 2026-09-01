@@ -7,19 +7,20 @@
 
 ## 🌟 Highlights
 
-- Some functionality made easy!
-- This problem handled
-- etc.
+- Helps Users navigate different cities throughout the southern region of the USA
+- Categorizes different parks, attractions, and food options in that city  
+- 
 
 
 ## ℹ️ Overview
-
-A paragraph explaining your work, who you are, and why you made it.
+This is a simple app project for my Software engineering course were I am creating an app that helps uses find different activities and food options within different cities across the southern region of the US. This app idea came to me because I want to expose different things that people can do within the city and expose people to more "whole in the wall" places. I am ordinally from Memphis,Tn and i know that there are a lot of places here in the city that just do not get the recognition that they deserve. With this app, Users will be able to not only find some activities that locals participate in, but expose them to the many local restaurants as well.
 
 
 ### ✍️ Authors
-Hello, My name is Madison Galloway and I am a current senior EECE student, and this is my project for my Software Engineering course at UofM
-
+:sparkles:Name: Madison Galloway
+- Senior
+- Major: Electrical Engineering and Computer Engineering 
+- Institution: University of Memphis
 
 ## 🚀 Usage
 
