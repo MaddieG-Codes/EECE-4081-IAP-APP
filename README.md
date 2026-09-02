@@ -1,49 +1,26 @@
-# 📦 My Package
-
-(add your badges here)
-
-> *Your documentation is a direct reflection of your software, so hold it to the same standards.*
-
-
-## 🌟 Highlights
-
-- Helps Users navigate different cities throughout the southern region of the USA
-- Categorizes different parks, attractions, and food options in that city  
-- 
-
-
+# 🍑 Southern City Explorer
+## Highlights
+- 🗺️ Helps users explore and navigate cities throughout the Southern United States.
+- 🎡 Provides information about local attractions.
+- 🍴 Helps users discover restaurants and local food options.
+- 🔎 Allows users to search and explore locations based on different categories.
+- 📍 Provides useful location information
 ## ℹ️ Overview
-This is a simple app project for my Software engineering course were I am creating an app that helps uses find different activities and food options within different cities across the southern region of the US. This app idea came to me because I want to expose different things that people can do within the city and expose people to more "whole in the wall" places. I am ordinally from Memphis,Tn and i know that there are a lot of places here in the city that just do not get the recognition that they deserve. With this app, Users will be able to not only find some activities that locals participate in, but expose them to the many local restaurants as well.
+Southern City Explorer is a city exploration and navigation application designed to help users discover cities throughout the Southern United States. Users will be able to select a city and explore different categories of locations, including parks, attractions, restaurants, and other points of interest. The application will organize these locations into searchable categories and provide useful information descriptions and provide addresses. The initial version of the application will focus on a small number of cities and categories, with the goal of eventually expanding to additional cities and providing personalized recommendations based on users' interests and locations.
+## ✍️ Authors
+- Name: Madison Galloway
+- Major: Electrical and Computer Engineering
+- Intuition: University of Memphis
+
+## 🛠️ Technology Stack
+- Programming Language: Python
+- Backend: Flask
+- Frontend: HTML, CSS, JavaScript
+- Database: SQLite
+- Testing: pytest
+- Package Management: pip
+- Version Control: Git and GitHub
 
 
-### ✍️ Authors
-:sparkles:Name: Madison Galloway
-- Senior
-- Major: Electrical Engineering and Computer Engineering 
-- Institution: University of Memphis
-
-## 🚀 Usage
-
-*Show off what your software looks like in action! Try to limit it to one-liners if possible and don't delve into API specifics.*
-
-```py
->>> import mypackage
->>> mypackage.do_stuff()
-'Oh yeah!'
-```
 
 
-## ⬇️ Installation
-
-Simple, understandable installation instructions!
-
-```bash
-pip install my-package
-```
-
-And be sure to specify any other minimum requirements like Python versions or operating systems.
-
-*You may be inclined to add development instructions here, don't.*
-
-
-## 💭 Feedback and Contributing
