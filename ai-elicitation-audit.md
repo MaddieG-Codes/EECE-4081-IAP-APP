@@ -10,10 +10,17 @@
 # 1. AI Elicitation Prompt
 
 The following prompt was used to ask an AI tool to generate requirements for the Southern City Explorer application:
+I am developing an application called Southern City Explorer.
+The concept is:
+"Southern City Explorer is a city exploration and navigation application designed to help users discover cities throughout the Southern United States. Users will be able to select a city and explore different categories of locations, including parks, attractions, restaurants, and other points of interest. The application will organize these locations into searchable categories and provide useful information such as descriptions, addresses, and navigation options. The initial version of the application will focus on a small number of cities and categories, with the goal of eventually expanding to additional cities and providing personalized recommendations based on users' interests and locations."
+Elicit the functional and non-functional requirements for this application.
+Provide:
 
-> I am developing a Southern U.S. city exploration and navigation application called Southern City Explorer. The application allows users to select a supported city and explore locations within that city. Users should be able to view location details such as descriptions, addresses, and categories. The application should also allow users to filter locations, switch between supported cities, search for locations by name or keyword, and view locations on a map.
->
-> Generate 6 user stories with acceptance criteria and 3 measurable non-functional requirements for this application.
+1. 6–8 user stories.
+2. Acceptance criteria for each user story.
+3. 3 non-functional requirements that are measurable or testable.
+
+Do not write code. Focus only on requirements.
 
 ---
 
