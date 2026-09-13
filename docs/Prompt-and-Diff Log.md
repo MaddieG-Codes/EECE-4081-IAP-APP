@@ -40,4 +40,4 @@ and scalability (10 cities / 10 categories / 5,000 locations without
 degradation).
 
 **Diff from Previous Version:**
-Not much was too far off from what i wrote other than the Ai including navigation 
+Not much was to far off from what I wrote other than the AI including a navigation set up where the app would tell the user how to get to that location. 
