@@ -31,9 +31,6 @@ classDiagram
         +String address
         +Decimal rating
         +Decimal price
-        +Decimal latitude
-        +Decimal longitude
-        +hasCoordinates()
     }
 
     class ExplorerSession {
