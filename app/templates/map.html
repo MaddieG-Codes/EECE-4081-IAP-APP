@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block title %}Map · Southern City Explorer{% endblock %}
+{% block content %}
+<h1>Map</h1>
+<!-- Placeholder for the real map; the skeleton proves the fetch() path with a list. -->
+<ul id="location-list" data-api-url="{{ url_for('main.api_locations') }}"></ul>
+<script src="{{ url_for('static', filename='map.js') }}"></script>
+{% endblock %}
